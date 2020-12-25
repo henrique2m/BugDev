@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/BugDev/static/js/main.eb8782d3.chunk.js",
+    "main.js.map": "/BugDev/static/js/main.eb8782d3.chunk.js.map",
+    "runtime-main.js": "/BugDev/static/js/runtime-main.e035d52b.js",
+    "runtime-main.js.map": "/BugDev/static/js/runtime-main.e035d52b.js.map",
+    "static/css/2.ccc6f86f.chunk.css": "/BugDev/static/css/2.ccc6f86f.chunk.css",
+    "static/js/2.978c6e00.chunk.js": "/BugDev/static/js/2.978c6e00.chunk.js",
+    "static/js/2.978c6e00.chunk.js.map": "/BugDev/static/js/2.978c6e00.chunk.js.map",
+    "index.html": "/BugDev/index.html",
+    "static/css/2.ccc6f86f.chunk.css.map": "/BugDev/static/css/2.ccc6f86f.chunk.css.map",
+    "static/js/2.978c6e00.chunk.js.LICENSE.txt": "/BugDev/static/js/2.978c6e00.chunk.js.LICENSE.txt",
+    "static/media/bugdev.627dc7ac.png": "/BugDev/static/media/bugdev.627dc7ac.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e035d52b.js",
+    "static/css/2.ccc6f86f.chunk.css",
+    "static/js/2.978c6e00.chunk.js",
+    "static/js/main.eb8782d3.chunk.js"
+  ]
+}
