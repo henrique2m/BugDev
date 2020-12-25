@@ -1,5 +1,5 @@
-<h1 align="center" style="background-color: #292929; padding: 10px">
-  <img src="https://raw.githubusercontent.com/henrique2m/BugDev/main/documentation/logo/bagdev.png" title="BugDev" alt="BugDev" width="300px" />
+<h1 align="center">
+  <img src="https://repository-images.githubusercontent.com/323886807/42039080-462b-11eb-8dae-9eb640aa95c8" title="BugDev" alt="BugDev" width="100%" />
 </h1>
 
 <p align="center">
