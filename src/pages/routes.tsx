@@ -5,7 +5,7 @@ import SignIn from './SignIn';
 
 export default function Routes() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Route path="/" exact component={SignIn} />
       <Route path="/home" component={Home} />
     </BrowserRouter>
